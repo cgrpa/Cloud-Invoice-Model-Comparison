@@ -85,8 +85,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `cgrpa`, `Cloud-Invoice-Model-Comparison`, `twitter_handle`, `chegamble`, `chegamblerpa@gmail.com_client`, `chegamblerpa@gmail.com`, `Cloud-Invoice-Model-Comparison`, `This project compares multiple invoice / document understanding solutions by some of the main Cloud providers. It aims to implement some of the learning I have acquired from the Azure Data Fundamentals course and practice C#.`
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -105,6 +103,20 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [ ] Find appropriate invoice dataset
+- [ ] Find invoice models from main providers (Google, Microsoft - Azure + PA AiBuilder, AWS) 
+- [ ] Create clients to consume services
+    - [ ] Pass invoices through
+- [ ] Store data in Azure
+- [ ] Use Azure Data Analytics services to compare accuracy scores
+
+See the [open issues](https://github.com/cgrpa/Cloud-Invoice-Model-Comparison/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -150,20 +162,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Find appropriate invoice dataset
-- [ ] Find invoice models from main providers (Google, Microsoft - Azure + PA AiBuilder, AWS) 
-- [ ] Create clients to consume services
-    - [ ] Pass invoices through
-- [ ] Store data in Azure
-- [ ] Use Azure Data Analytics services to compare accuracy scores
-
-See the [open issues](https://github.com/cgrpa/Cloud-Invoice-Model-Comparison/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 

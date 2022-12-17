@@ -102,7 +102,8 @@
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Find appropriate invoice dataset
+- [✓] Find appropriate invoice dataset 
+  - [✓] https://huggingface.co/datasets/ChainYo/rvl-cdip-invoice
 - [ ] Find invoice models from main providers (Google, Microsoft - Azure + PA AiBuilder, AWS) 
 - [ ] Create clients to consume services
     - [ ] Pass invoices through

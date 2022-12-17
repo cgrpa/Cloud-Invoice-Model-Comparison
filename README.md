@@ -154,10 +154,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Find appropriate invoice dataset
+- [ ] Find invoice models from main providers (Google, Microsoft - Azure + PA AiBuilder, AWS) 
+- [ ] Create clients to consume services
+    - [ ] Pass invoices through
+- [ ] Store data in Azure
+- [ ] Use Azure Data Analytics services to compare accuracy scores
 
 See the [open issues](https://github.com/cgrpa/Cloud-Invoice-Model-Comparison/issues) for a full list of proposed features (and known issues).
 
@@ -195,7 +197,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - chegamblerpa@gmail.com@chegamblerpa@gmail.com_client.com
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - chegamblerpa@gmail.com
 
 Project Link: [https://github.com/cgrpa/Cloud-Invoice-Model-Comparison](https://github.com/cgrpa/Cloud-Invoice-Model-Comparison)
 

@@ -108,7 +108,7 @@
 - [ ] Create clients to consume services
     - [ ] Pass invoices through
 - [ ] Store data in Azure
-- [ ] Use Azure Data Analytics services to compare accuracy scores
+- [ ] Use Power BI to visualize data and results.
 
 See the [open issues](https://github.com/cgrpa/Cloud-Invoice-Model-Comparison/issues) for a full list of proposed features (and known issues).
 
